@@ -3,7 +3,7 @@ const pacArray = [
   ["./images/PacMan1.png", "./images/PacMan2.png"],
   ["./images/PacMan3.png", "./images/PacMan4.png"],
 ];
-var direction = 0;
+var direction = 1;
 const pacMen = []; 
 
 function setToRandom(scale) {
