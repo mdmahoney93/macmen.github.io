@@ -2,7 +2,7 @@
 
 ## This is fun and interactive code where you can fill the screen with PacMen and watch them bounce around. I added some css to change the background and customize the buttons. 
 
-### How to run: open up the index.html file in a new browser. Click "Add a PacMan" and  then "Start Munching". How many PacMan can you keep track of at one time??
+### How to run: open up the index.html file in a new browser. Click "Add a PacMan" and  then "Start Munching". How many PacMan can you keep track of at one time?? Fun Fact: The more you press the Start Munching button, the faster they munch! 
 
 #### Future improvements: I would like to know how to make all 4 images come out when you press Add a PacMan.. or maybe instead of a still image, use a gif or video?? Also to have a stop or restart button. 
 
